@@ -1,0 +1,11 @@
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\JapaneseThing\bin\Debug\netcoreapp2.1\JapaneseThing.deps.json
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\JapaneseThing\bin\Debug\netcoreapp2.1\JapaneseThing.runtimeconfig.json
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\JapaneseThing\bin\Debug\netcoreapp2.1\JapaneseThing.runtimeconfig.dev.json
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\JapaneseThing\bin\Debug\netcoreapp2.1\JapaneseThing.dll
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\JapaneseThing\bin\Debug\netcoreapp2.1\JapaneseThing.pdb
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\JapaneseThing\obj\Debug\netcoreapp2.1\JapaneseThing.csprojAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\JapaneseThing\obj\Debug\netcoreapp2.1\JapaneseThing.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\JapaneseThing\obj\Debug\netcoreapp2.1\JapaneseThing.AssemblyInfoInputs.cache
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\JapaneseThing\obj\Debug\netcoreapp2.1\JapaneseThing.AssemblyInfo.cs
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\JapaneseThing\obj\Debug\netcoreapp2.1\JapaneseThing.dll
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\JapaneseThing\obj\Debug\netcoreapp2.1\JapaneseThing.pdb
